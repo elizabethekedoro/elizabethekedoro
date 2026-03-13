@@ -20,7 +20,7 @@
 
 - [A Day in the Life of a Security Operations Center (SOC) Analyst](https://youtube.com/shorts/MJliEeRKkNo)
 - [How to get a Scholarship to Attend a Cybersecurity Conference in the USA](https://youtube.com/playlist?list=PL2BzSuXF5XMRLOqQHqV6ZvXeoDcYIMY0H&si=UPXsfDnfiBLLg1al)
-- [The I OVE YOU Virus ](https://youtu.be/tRh-Xfij3KU?si=p_dl0rGVELO_6N2b)
+- [The I LOVE YOU Virus ](https://youtu.be/tRh-Xfij3KU?si=p_dl0rGVELO_6N2b)
 
 <h2> 🤳 Connect with me:</h2>
 
