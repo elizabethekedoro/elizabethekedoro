@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elizabeth Ekedoro! <br/><a href="https://www.linkedin.com/in/ekedoro-elizabeth">SOC/Cybersecurity Analyst</a> | <a href="https://youtube.com/@elizabethekedoro">YouTuber</a> | <a href="https://linktr.ee/elizabethekedoro">Learn More About Me</a> </h1>
+<h1>Hi, I'm Elizabeth Ekedoro! <br/><a href="https://www.linkedin.com/in/ekedoro-elizabeth">SOC/Cybersecurity Analyst & AI Researcher</a> | <a href="https://youtube.com/@elizabethekedoro">YouTuber</a> | <a href="https://linktr.ee/elizabethekedoro">Learn More About Me</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
