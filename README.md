@@ -23,7 +23,7 @@
 - [My Journey to Black Hat USA 2025 Powered by AKAMAI x Confidence Staveley](https://youtube.com/shorts/hroIvIrXmU4?si=DNSD0XOqgFGS8036)
 - [A Phishing Awareness Video for Everyday Internet Users](https://youtube.com/shorts/bVeK01NYpT4?si=FBwQzJfxRK8HYhdN)
 - [I Spoke to Teenagers in the U.S. About Cybersecurity](https://youtu.be/zfaV3v-PrPg?si=FqWhC3nxsbjOPezv)
-- [How to get a Scholarship to Attend a Cybersecurity Conference in the USA](https://youtu.be/hyN-ClEhQ2o?si=DqgMvExEf0q5QfTJ)
+- [How to get a Scholarship to Attend a Cybersecurity Conference in the USA](https://youtu.be/hyN-ClEhQ2o?si=xls4wqCCRIxLDowJ)
 - [A Playlist of How to Become a Women in Cybersecurity (WiCyS) Member ](https://youtube.com/playlist?list=PL2BzSuXF5XMRLOqQHqV6ZvXeoDcYIMY0H&si=y6Y4Xmnr_hT2A4g3)
 - [The Dark Web Explained](https://youtu.be/BM-swqPRuu8?si=v40bkooSmpNlPREh)
 - [The I LOVE YOU Virus](https://youtu.be/tRh-Xfij3KU?si=p_dl0rGVELO_6N2b)
