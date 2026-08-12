@@ -23,6 +23,7 @@
 - [My Journey to Black Hat USA 2025 Powered by AKAMAI x Confidence Staveley](https://youtube.com/shorts/hroIvIrXmU4?si=DNSD0XOqgFGS8036)
 - [A Phishing Awareness Video for Everyday Internet Users](https://youtube.com/shorts/bVeK01NYpT4?si=FBwQzJfxRK8HYhdN)
 - [I Spoke to Teenagers in the U.S. About Cybersecurity](https://youtu.be/zfaV3v-PrPg?si=FqWhC3nxsbjOPezv)
+- [I Attended the Women in Cybersecurity (WiCyS) Conference in the USA](https://youtu.be/C1XvQ3XZWn8?si=b6P_2lLF9lxWnCEE)
 - [How to get a Scholarship to Attend a Cybersecurity Conference in the USA](https://youtu.be/hyN-ClEhQ2o?si=xls4wqCCRIxLDowJ)
 - [A Playlist of How to Become a Women in Cybersecurity (WiCyS) Member ](https://youtube.com/playlist?list=PL2BzSuXF5XMRLOqQHqV6ZvXeoDcYIMY0H&si=y6Y4Xmnr_hT2A4g3)
 - [How to Update Your Windows 11 Device Features](https://youtu.be/nLswH_pwQXc?si=bT26PhySwO7IRE3f)
