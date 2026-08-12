@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>How To Run a Phishing Simulation</b>
-  - [Phishing Simulation](https://github.com/elizabethekedoro/Gophish-Windows-Setup-Guide)
+- <b>GoPhish Phishing Simulation Lab – End-to-End Security Awareness Testing</b>
+  - [How To Run a Phishing Simulation](https://github.com/elizabethekedoro/Gophish-Windows-Setup-Guide)
 - <b>Splunk Workshop (Building a Comprehensive Dashboard for Vibranium Enterprise)</b>
   - [A Comprehensive Splunk Dashboard](https://drive.google.com/file/d/1MLnmPdrtR2_lHPhFkyhnYOL-igDcMEzq/view)
 - <b>How to Create a KeyLogger</b>
