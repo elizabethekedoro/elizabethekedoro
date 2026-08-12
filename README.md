@@ -1,6 +1,6 @@
 <h1>Hi, I'm Elizabeth Ekedoro! <br/><a href="https://www.linkedin.com/in/ekedoro-elizabeth">SOC/Cybersecurity Analyst & AI Researcher</a> | <a href="https://youtube.com/@elizabethekedoro">YouTuber</a> | <a href="https://linktr.ee/elizabethekedoro">Learn More About Me</a> </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 
 - <b>GoPhish Phishing Simulation Lab – End-to-End Security Awareness Testing</b>
   - [How To Run a Phishing Simulation](https://github.com/elizabethekedoro/Gophish-Windows-Setup-Guide)
