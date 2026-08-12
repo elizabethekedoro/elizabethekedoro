@@ -7,12 +7,13 @@
 - <b>Splunk Workshop (Building a Comprehensive Dashboard for Vibranium Enterprise)</b>
   - [A Comprehensive Splunk Dashboard](https://drive.google.com/file/d/1MLnmPdrtR2_lHPhFkyhnYOL-igDcMEzq/view)
 - <b>How to Create a KeyLogger</b>
-  - [Walk Through](https://github.com/elizabethekedoro)
+  - [Walkthrough](https://github.com/elizabethekedoro)
  
 <h2> 📃 Licenses & Certifications </h2>
 
 - [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/2826b5bc-f685-4691-bbb4-544bca116cdb/public_url)
 - [GIAC GFACT (SANS)](https://www.credly.com/badges/c5852fe7-4cf2-4b54-bf1d-ea60ddb4725f/)
+- [Certified Blue Team Practitioner (The SecOps Group)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXbB1Uhr27DottTbKNqa8DglEzX7PyiKbGfzwd/QJzgvIpTHp6HWJQM8Rwjqynf2Tgpqbl5bk6DMocEGxs7faie0=)
 - [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/ElizabethEkedoro-6929/8D04AC4B0EB510AD?sharingId=545B9A5C3B2E9F79)
 - [Certified in Cybersecurity (ISC2 CC)](https://www.credly.com/badges/e5f2c168-bb97-47d0-a024-7a4f688754a3/public_url)
 
